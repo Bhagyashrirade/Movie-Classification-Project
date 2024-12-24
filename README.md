@@ -37,4 +37,4 @@ The dataset used in this project is `Movie_classification.csv`, which contains i
   ## Contact
   For any questions or feedback, please reach out to:
 - Your Name: [bhagyashri.rade2002@gmail.com](mailto:bhagyashri.rade2002@gmail.com)
-- GitHub: [bhagyashrirade]()
+- GitHub: [Bhagyashrirade](https://github.com/Bhagyashrirade)
